@@ -1,13 +1,26 @@
 ## Autonomous Energy Systems: From Data to Actions
 
-This is website will be used to host information regarding the proposed workshop: Autonous Energy Systems: From Data to Actions. This workshop will be co-organized with the 11th IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm 2020) will be held in Tempe, Arizona, USA from 6-9 October 2020.
+This is website will be used to host information regarding the proposed workshop: Autonous Energy Systems: From Data to Actions. This workshop will be co-organized with the 11th IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm 2020) which will be held in Tempe, Arizona, USA from 6-9 October 2020.
 
 
-<!-- ### Markdown -->
+### Call for Contributions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The call for papers will be available here in text and in pdf version.
 
-```markdown
+### Technical Program Committee
+
+The technical program committee members will be available here.
+
+### Organizers
+
+Dr. Guido Cavraro, National Renewable Energy Laborator
+Dr. Ahmed Zamzam, National Renewable Energy Laboratory
+
+### Technical Schedule
+
+The schedule of the workshop will be shown here. This replaces the call for contribution section when the accepted papers are announced.
+
+<!-- ```markdown
 Syntax highlighted code block
 
 # Header 1
@@ -29,7 +42,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UMN-AhmedSZ/AES-DA/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UMN-AhmedSZ/AES-DA/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file. -->
 
 ### Support or Contact
 
