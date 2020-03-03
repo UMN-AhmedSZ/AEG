@@ -14,6 +14,7 @@ The technical program committee members will be available here.
 ### Organizers
 
 Dr. Guido Cavraro, National Renewable Energy Laborator
+
 Dr. Ahmed Zamzam, National Renewable Energy Laboratory
 
 ### Technical Schedule
