@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## Autonomous Energy Systems: From Data to Actions
 
-You can use the [editor on GitHub](https://github.com/UMN-AhmedSZ/AES-DA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is website will be used to host information regarding the proposed workshop: Autonous Energy Systems: From Data to Actions. This workshop will be co-organized with the 11th IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm 2020) will be held in Tempe, Arizona, USA from 6-9 October 2020.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+% ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
