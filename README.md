@@ -28,6 +28,7 @@ Dr. Ahmed Zamzam, National Renewable Energy Laboratory
 ### Technical Schedule
 
 The schedule of the workshop will be shown here. 
+
 <!-- ```markdown
 Syntax highlighted code block
 
