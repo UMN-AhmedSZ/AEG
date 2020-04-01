@@ -7,14 +7,14 @@ The workshop will be co-organized with the 11th IEEE International Conference on
 
 This workshop welcomes contributions that tackle challenges in real-time monitoring and control of complex energy systems. The goal of this workshop is to push forward the Autonomous Energy Grid paradigm that rely on novel distributed control and optimization methods to accurately monitor and optimally operate energy systems. Further, novel disruptive approaches, both technically and from a market perspective, for supporting resilient operation of cyber-physical systems are welcome. The workshop therefore covers the following research topics with applications in power systems, transportation, and buildings:
 
-•    Autonomous grid operation
-•    Distributed and scalable optimization methods
-•    Stochastic and/or nonlinear control
-•    State estimation methods for energy systems
-•    Real-time optimization of large-scale systems
-•    Data-driven control approaches
-•    System dynamics control
-•    Resilient cyber-physical systems
+* Autonomous grid operation
+* Distributed and scalable optimization methods
+* Stochastic and/or nonlinear control
+* State estimation methods for energy systems
+* Real-time optimization of large-scale systems
+* Data-driven control approaches
+* System dynamics control
+* Resilient cyber-physical systems
 
 ### Technical Program Committee
 
