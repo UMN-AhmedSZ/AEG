@@ -1,6 +1,6 @@
 ## Autonomous Energy Grids: A Distributed Optimization and Control Perspective
 
-The workshop will be co-organized with the 11th IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm 2020) which will be held in Tempe, Arizona, USA from 6-9 October 2020.
+The workshop will be co-organized with the 11th IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm 2020) which will be held in Tempe, Arizona, USA from 21-23 October 2020.
 
 
 ### Call for Contributions
@@ -15,6 +15,18 @@ This workshop welcomes contributions that tackle challenges in real-time monitor
 * Data-driven control approaches
 * System dynamics control
 * Resilient cyber-physical systems
+
+### Important Dates
+
+**Submission Deadline:** May 28, 2020 <br />
+**Author Notification:** July 28, 2020 <br />
+**Camera-Ready Paper (The Final Version) Due:** August 7, 2019 <br />
+**Workshop Date:** October 6, 2020
+
+### Submission Guidelines
+
+The submission guidelines will be posted here.
+
 
 ### Technical Program Committee
 
