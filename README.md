@@ -1,4 +1,4 @@
-## Autonomous Energy Systems: A Distributed Optimization and Control perspective
+## Autonomous Energy Grids: A Distributed Optimization and Control Perspective
 
 The workshop will be co-organized with the 11th IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm 2020) which will be held in Tempe, Arizona, USA from 6-9 October 2020.
 
