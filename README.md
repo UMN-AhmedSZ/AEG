@@ -19,8 +19,8 @@ This workshop welcomes contributions that tackle challenges in real-time monitor
 ### Important Dates
 
 **Submission Deadline:** May 28, 2020 <br />
-**Author Notification:** July 28, 2020 <br />
-**Camera-Ready Paper (The Final Version) Due:** August 7, 2019 <br />
+**Authors Notification:** July 28, 2020 <br />
+**Camera-Ready Paper Due:** August 7, 2019 <br />
 **Workshop Date:** October 6, 2020
 
 ### Submission Guidelines
