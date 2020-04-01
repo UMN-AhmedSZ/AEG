@@ -1,11 +1,20 @@
-## Autonomous Energy Systems: From Data to Actions
+## Autonomous Energy Systems: A Distributed Optimization and Control perspective
 
-This is website will be used to host information regarding the proposed workshop: Autonous Energy Systems: From Data to Actions. This workshop will be co-organized with the 11th IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm 2020) which will be held in Tempe, Arizona, USA from 6-9 October 2020.
+The workshop will be co-organized with the 11th IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm 2020) which will be held in Tempe, Arizona, USA from 6-9 October 2020.
 
 
 ### Call for Contributions
 
-The call for papers will be available here in text and in pdf version.
+This workshop welcomes contributions that tackle challenges in real-time monitoring and control of complex energy systems. The goal of this workshop is to push forward the Autonomous Energy Grid paradigm that rely on novel distributed control and optimization methods to accurately monitor and optimally operate energy systems. Further, novel disruptive approaches, both technically and from a market perspective, for supporting resilient operation of cyber-physical systems are welcome. The workshop therefore covers the following research topics with applications in power systems, transportation, and buildings:
+
+•    Autonomous grid operation
+•    Distributed and scalable optimization methods
+•    Stochastic and/or nonlinear control
+•    State estimation methods for energy systems
+•    Real-time optimization of large-scale systems
+•    Data-driven control approaches
+•    System dynamics control
+•    Resilient cyber-physical systems
 
 ### Technical Program Committee
 
@@ -18,8 +27,7 @@ Dr. Ahmed Zamzam, National Renewable Energy Laboratory
 
 ### Technical Schedule
 
-The schedule of the workshop will be shown here. This replaces the call for contribution section when the accepted papers are announced.
-
+The schedule of the workshop will be shown here. 
 <!-- ```markdown
 Syntax highlighted code block
 
