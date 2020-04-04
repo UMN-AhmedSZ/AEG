@@ -2,6 +2,8 @@
 
 The workshop will be co-organized with the 11th IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm 2020) which will be held in Tempe, Arizona, USA from 21-23 October 2020.
 
+### COVID-19 Notice:
+**The workshop organizers are closely monitoring the developments of COVID-19. As the situation continues to change, and with the cooperation of the 2020 Smart Grid Comm Conference organizers, we are prepared to address future issues that may arise. Specifically, accommodations will be made for video or remote presentations as needed.**
 
 ### Call for Contributions
 
