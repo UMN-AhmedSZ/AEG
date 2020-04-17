@@ -27,7 +27,7 @@ This workshop welcomes contributions that tackle challenges in real-time monitor
 
 ### Submission Guidelines
 
-The submission guidelines will be posted here.
+Prospective authors are invited to submit original papers (standard two-column IEEE format, up to six pages) using [EDAS](https://www.edas.info/) (www.edas.info under the track “SmartGridComm 2020” and sub-track "Workshop on Autonomous Energy Grids: A Distributed Optimization and Control Perspective") on all topics related to the workshop research areas.
 
 
 ### Technical Program Committee
